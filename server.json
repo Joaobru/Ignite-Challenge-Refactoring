@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "teste",
+      "name": "Moda da casa",
+      "price": "18.99",
+      "description": "teste",
+      "available": false,
+      "id": 4
     }
   ]
 }
